@@ -1,6 +1,6 @@
 [ 
 	{ 
-		"name": "grilled cheese on toast", 
+		"name": "grilledcheese on toast", 
 		"ingredients": [ 
 							{ "item":"bread", "amount":"2", "unit":"slices"}, 
 							{ "item":"cheese", "amount":"2", "unit":"slices"} 

@@ -18,7 +18,7 @@ final class RecipeFinder{
 	}
 
 	//logic to recommend recipe based on requirement in test. 
-	//Currently assuming fridge list csv file cannot contain multiple entries of same item. Works for provided sample
+	//Currently assuming fridge list csv file cannot contain multiple entries of same item.
 	public function recommendRecipe(){
 		$recommendedRecipe = null;
 		$recipeExpiry = null;
